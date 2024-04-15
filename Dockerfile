@@ -1,4 +1,4 @@
-FROM python:3.12.1-alpine
+FROM python:3.12.3-alpine
 
 ARG USER_ID=65535
 ARG USER_NAME=gitbackup
